@@ -2,7 +2,7 @@
   "name": "Dx.ReportDesigner",
   "version": "0.0.0",
   "license": "MIT",
-	"scripts": {
+  "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
@@ -23,7 +23,7 @@
     "@nguniversal/module-map-ngfactory-loader": "8.0.0-rc.1",
     "aspnet-prerendering": "^3.0.1",
     "devextreme": "19.2-next",
-      "devexpress-richedit": "19.2-next",
+    "devexpress-richedit": "19.2-next",
     "@devexpress/analytics-core": "19.2-next",
     "devexpress-reporting-angular": "19.2-next",
     "bootstrap": "^4.3.1",
@@ -50,4 +50,3 @@
     "typescript": "3.4.5"
   }
 }
-
